@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/amor-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Amor prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-prohibido/) |
+| **Get License** | [Commercial Licensing for Amor prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/amor-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dime si tú sientes lo que yo siento cuando bailas así
+> Ese fuego en tus caderas tiene un ritmo que es pa' mí
+> La noche es nuestra y el destino nos escribió este script
+> Amor prohibido, pero el alma no te sabe mentir
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
