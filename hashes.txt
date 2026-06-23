@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Amor prohibido
+
+This log tracks the cryptographic history and versioning for the song **Amor prohibido** (amor-prohibido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T06:37:23.873745 | `v1` | `42043400e63d7ed843763eb70c0700cbd380e418c47cd3199a9fba037ae40a83` | `f9728ae2735d6725899aee93d35832ba1a0d42711a862bbdaed82e70f767a6c8` | `2026-06-23_amor-prohibido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
